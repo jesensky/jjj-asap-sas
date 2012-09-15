@@ -1,0 +1,38 @@
+Data Set #7
+Type of response:Source Dependent ResponseGrade level:10Subject:EnglishTraining set size:1799Final evaluation set size:601Average length of responses:50 wordsScoring:Score1, Score2Final score:Final score is score 1. Score 2 is for inter-rater reliability purposes.Rubric range:0-2Reading Passage-Trait of Rose Item
+Crossing Over 
+       Rose's head jerked up from her chest. "Oh no," she groaned, rubbing the back of her neck and blinking at the bright light in the kitchen. For a split second she was confused. Then she remembered: her essay for the state competition. She'd been struggling to think of a topic. Her brain must have surrendered to exhaustion.  
+       The day, like most of her days, had been too long, too demanding. From school she'd gone straight to the restaurant to work a four-hour shift, then straight home to help Aunt Kolab prepare a quick supper. After that it was time to do homework.  
+       When would she squeeze in writing a flawless three-thousand-word essay? "I'm insane," she said grimly as she gathered books and papers.  Even if I win, she thought, I won't get to travel to Sacramento to receive the prize. She'd already had to miss a lot of shifts, and her supervisor was on the verge of firing her. 
+       Her younger sister walked in rubbing her eyes.  
+       "Anna," Rose said. "What's wrong? You feel okay?" 
+       "I'm fine," her sister said.  "I just had another bad dream." 
+       "I fell asleep working on my essay," Rose said.  
+       Anna poured two glasses of orange juice and handed one to Rose. "Mama's not home yet, is she." It wasn't a question. "I hate how late she has to work." Her voice sank to a fierce whisper. "I'm so lonesome for Papa. It seems like he's been gone for years." 
+       "It's only been four months," Rose said as gently as she could. "He had to go. The job in Los Angeles paid three times what he was making here." 
+       Anna glared at Rose.  "Money isn't everything."  
+       "Only if you already have everything," Rose said. She tried a laugh that sounded fake even to her. "We have our part to do to help Paul finish  college. Then he'll get a good job, Anna, and he'll pay for you and me to go to college." 
+       Anna rolled her eyes and shoved her chai r away from the table. "You sound just like Mama." She stood and stalked out of the kitchen. 
+ 	By the time Rose tiptoed into their room, Anna was already snoring lightly. Rose slid into bed and watched the lights from passing cars move across the walls. They became the lights that had illuminated the stage at Paul's high school graduation. As her brother accepted his diploma, Rose had glanced at her parents' faces. Four eyes shining with tears. The work, the sheer weight of it, to get him on that stage slid from them in that moment; only a sweet, triumphant ache remained. Surely they remembered the ship, their young son and daughters clinging to their necks, Cambodia behind them, the United States before them. On that ship perhaps they had imagined their children's futures, imagined this very day would come. 
+       In the dark Rose clasped then cupped her hands.  Paul's fate lies partly in these, she thought. She felt too young for so much responsibility. Then she shivered, imagining how her brother must feel. Only three years older, he held the fate of two people-both his sisters-in his hands. 
+       Rose dreamed that she swam through clear, green-tinted water, enjoying the pure simplicity of a fish's life. She stopped moving and looked up. She saw Paul jump from a boulder and crash into the water just above her. His body sank as if it were made of stone, pushing her beneath him down to the sandy bottom. She struggled to get out from under him, but he seemed unaware of her. When she opened her mouth to scream get off, water rushed in. 
+       Rose woke gasping for air. The walls of her room were bathed in pale sunlight. When her heart had slowed back down, she got up. Anna was still asleep. In the hall Rose stopped at her mother's room. She was also sleeping. So it was Aunt Kolab making the muted noises coming from the kitchen. 
+       "Good morning, Rose," her aunt said. 
+       Rose felt an urgent need to relate the dream, to expose it so it would loosen its grip on her. After she'd finished, her aunt said, with a puzzled look, "Do you feel so weighed down by what you're doing to help this family?" 
+       Rose didn't answer. If she told the truth, she would hurt her aunt. And probably her aunt would tell her mother. 
+       "In Cambodia, our first country, what we're all doing would be quite normal," her aunt said. "But now I realize that you're seeing the situation through other eyes-as you should, I suppose, because you grew up here .... This must be difficult for you. Yes?" 
+       Rose nodded. 
+       "Hmm. Maybe we can find a way to do things differently. A way better for you." Her aunt's face lit up. "Maybe I can sew for ladies. Or I could make special treats from our country and sell them." 
+       Rose kept nodding. Maybe her life would get easier. Maybe it wouldn't. But her aunt's offer had somehow made her feel lighter. Suddenly, it occurred to her: here was the topic for her essay, although it was still vague. Cambodian tradition and sense of family, she realized, could survive an ocean crossing.  
+Prompt-Trait of Rose Item
+Identify ONE trait that can describe Rose based on her conversations with Anna or Aunt Kolab. Include ONE detail from the story that supports your answer.
+Rubric for Trait of Rose
+2 points
+This item requires a two-part response. The student must identify one character trait of Rose, as well as include story details that adequately support the answer. The response should be related to the conversations with Anna or Aunt Kolab. In order to receive ANY credit, the student must provide a creditable response to the first part of the question. An additional point is awarded if the student provides a creditable response to the second part of the question.
+1 point
+A 1-point response will include identifying a character trait of Rose.
+0 points
+No points are given if a character trait of Rose's is not identified.
+1
+
+

@@ -1,0 +1,52 @@
+Data Set #3
+Type of response:Source Dependent ResponseGrade level:10Subject:English Language ArtsTraining set size:1891Final evaluation set size:631Average length of responses:50 wordsScoring:Score1, Score2Final score:Final score is score 1. Score 2 is for inter-rater reliability purposes.Rubric range:0-2Reading Passage-Koala/Panda Item
+THE WASHINGTON POST FRIDAY, APRIL 18, 2008
+One Man's Pet, Another's Invasive Species
+BY JOEL ACHENBACH
+       BUSHNELL, Fla-RobRoy Maclnnes is the man to see if you want to buy a crocodile. Or a scorpion, a rattlesnake, a boa constrictor. Got a hankering for a cobra? Just pony up $600 and you can have one of the more lethal species.
+       "It is a very effective threat display," Maclnnes, 49, says as a Pakistan black cobra, six feet long, hissing, hood spread, writhes in its enclosure and strikes again and again and again at the thin glass separating the creature from a visitor. "A snake like that, coining at you, you'd leave him alone."
+       Or simply die of fright.
+	Maclnnes is co-owner of Glades Herp Farms, an empire of claws, spines, scales, fangs and darting tongues. The reptile trade, he's happy to report, is booming. The pet industry estimates that about 4.8 million households now contain at least one pet reptile, a number that has nearly doubled in a decade. Reptiles are increasingly popular in a crowded, urbanized nation. They don't need a yard. You don't have to take a lizard for a walk.
+       But biologists see the trade in nonnative creatures as a factor in the rising number of invasive species, such as the Burmese python, which is breeding up a storm in the Everglades, and the Nile monitor lizard, a toothy carnivore that can reach seven feet in length and has found a happy home along the canals of Cape Coral. Under a new state law, a customer must obtain a $100 annual permit to buy a monitor lizard or some of the largest snakes-four species of pythons and the green anaconda. The animal must also be implanted with a microchip. That tag could help officials identify the animal if it turns up later in the wild. 
+       Maclnnes contends that the government overestimates the threat posed by invasive reptiles. He says he's being blocked by the U.S. Fish and Wildlife Service from importing some commercially attractive animals, such as Fiji island iguanas and radiated tortoises from Madagascar.
+       Even the term "invasive species" is unfair, he said. "They're 'introduced.' I think that 'invasive' is passing judgment."
+       Of the pythons, he said: "To me, it's a wonderful introduction. I think it's the best thing to happen to the Everglades in the last 200 years."
+       Biologists, however, say that invasive species, unchecked by natural predators, are major threats to biodiversity. Life on Earth has always moved around, but never so fast. Organisms evolve in niche environments. What happens when the natural barriers are removed? When anything can go anywhere?
+       Complications ensue.
+
+Snakes Alive!
+       Skip Snow, a wildlife biologist for Everglades National Park, has helped drag hundreds of Burmese pythons out of the weeds, of roadways and even from under the hood of a tourist's car. He calls Maclnnes's argument "ridiculous." The snakes, he says, are imperiling five endangered species in the Florida Keys, including the Key Largo wood rat, one specimen of which, tagged with a radio transmitter, was tracked all the way to the belly of a python. ...
+       No one knows how the snakes went native, but there's speculation that Hurricane Andrew, which obliterated thousands of homes, played a factor in a wholesale python jailbreak in 1992. Many invasive species undergo a lag before proliferating. What's certain is that, by 2002, pythons were seen in multiple locations in remote regions of the Everglades.
+	Then one morning in early 2003 a bunch of tourists on the park's Anhinga Trail, a reliable location for viewing wildlife, were startled to see an alligator with a python in its mouth. ...
+       Even more dramatic was what happened in the Everglades in 2005: A python swallowed an alligator and-there's not a delicate way to put it-exploded. The photograph ran around the world; it wasn't pretty, but you had to look.
+       This February, the U.S. Geological Survey reported that pythons in Asia inhabit climates that are similar to those in about a third of the continental United States. A USGS map showed potential python habitat stretching from California to Delaware and including much of the South. You could conceivably have pythons snacking their way right up the Potomac.
+       The map wasn't a prediction of where the snakes will actually spread, however. Media coverage of it was overly sensational, argues the map's co-author, Robert Reed.
+       "When was the last snake story that didn't get sensationalized?" he asked.
+       "Ecophobia is playing a role," said Jamie K. Reaser, a science and policy adviser to the Pet Industry Joint Advisory Council. "Mammals are warm and fuzzy. Birds tend to have quite a following. But animals such as lizards and snakes tend, at least in this culture, to be less well respected or supported."  ...
+
+The Experiment
+       What is happening in Florida illustrates a broader fact about life on Earth: We live in an age that favors generalists rather than specialists. A generalist is a raccoon, a python, a cockroach, a white-tailed deer. The ultimate generalist is, arguably, a human being, who with the assistance of technology can live anywhere from Florida to Antarctica to outer space. It's no accident that the species that have become most abundant are often those that do best in and around humans.
+       A specialist is China's panda, which eats almost nothing but bamboo, or Australia's koala bear, which eats eucalyptus leaves almost exclusively.
+       Maclnnes is not without an environmental conscience.
+       "We're degrading the Earth at an alarming rate," he said. "Will man go extinct before we reach the point where we figure it out?"
+       He added: "What favors generalists is change. What favors specialists is stability. Right now, mankind has chosen to make Earth a rapidly changing place."
+       Down in the Everglades, Skip Snow would agree with that part of Maclnnes's philosophy. We are all part of a vast experiment in the blending of organisms from around the world, he said.
+       "The thing about the experiment is, it's not planned, and there's no one in control," Snow added. "It's an experiment run amok."
+------------------------------------------------------------------------------------------------------------------------------------------
+"One Man's Pet, Another's Invasive Species" by Joel Achenbach. From The Washington Post, April 18, 2008. Copyright (c) 2008 The Washington Post. All rights reserved. Used by permission and protected by the Copyright Laws of the United States. The printing, copying, redistribution, or retransmission of the Material without express written permission is prohibited.
+
+
+Prompt-Koala/Panda Item
+Explain how pandas in China are similar to koalas in Australia and how they both are different from pythons. Support your response with information from the article.
+Reading for Information Scoring and Rubric-Koala/Panda Item
+Readers independently and holistically score each student's open-ended responses, using a three-point scale and basing the score on a student's evidence of the dimension, developing an interpretation. Grammar, spelling, and penmanship are not considered for scoring, but are important to the fluency and clarity of a response. Each score category contains a range of student responses that reflect the descriptions given below.
+Developing an Interpretation
+Score Point 2
+The response demonstrates: an exploration or development of the ideas presented in the text a strong conceptual understanding by the inclusion of specific relevant information from the text an extension of ideas that may include extensive and/or insightful inferences, connections between ideas in the text, and references to prior knowledge and/or experiences
+Score Point 1
+The response demonstrates: some exploration or development of ideas presented in the text a fundamental understanding by the inclusion of some relevant information from the text an extension of ideas that lacks depth, although may include some inferences, connections between ideas in the text, or references to prior knowledge and/or experiences
+Score Point 0
+The response demonstrates: limited or no exploration or development of ideas presented in the text limited or no understanding of the text, may be illogical, vague, or irrelevant possible incomplete or limited inferences, connections between ideas in the text, or references to prior knowledge and/or experiences
+1
+
+

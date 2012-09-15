@@ -1,0 +1,3 @@
+	{
+		print "java -cp \"C:\\stanford-parser-2012-05-22\\stanford-parser.jar;C:\\stanford-parser-2012-05-22\\stanford-parser-2012-05-22-models.jar\" edu.stanford.nlp.parser.lexparser.LexicalizedParser -retainTmpSubcategories -outputFormat \"oneline,wordsAndTags,typedDependenciesCollapsed\" -outputFormatOptions stem -writeOutputFiles -outputFilesExtension sp edu/stanford/nlp/models/lexparser/englishPCFG.caseless.ser.gz", $0;
+	}

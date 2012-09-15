@@ -1,0 +1,62 @@
+<!--
+	Script to compile source code
+-->
+<project name="jjj" basedir="." default="main">
+
+	<!--
+		For debug
+	-->
+	<echoproperties />
+	<property environment="ENV" />
+	<echoproperties prefix="ENV." />
+	
+	<!--
+		Java CLASSPATH containing third-party libs
+	-->
+	<path id="third.party.libs">
+		<!-- weka stuff -->
+		<pathelement path="weka\weka.jar" />
+		<pathelement path="weka\naiveBayesTree\naiveBayesTree.jar" />
+		<pathelement path="weka\RBFNetwork\RBFNetwork.jar" />
+		<pathelement path="weka\partialLeastSquares\partialLeastSquares.jar" />
+		<!-- jgap -->
+		<pathelement path="\lib\jgap-3.6.1\jgap.jar" />
+	</path>
+
+	<!--
+		Clean up last build
+	-->
+	<target name="clean">
+		<delete dir="classes" />
+		<mkdir dir="classes" />
+		<delete dir="lib" />
+		<mkdir dir="lib" />
+	</target>
+	
+	<!--
+		Compiles Java sources
+	-->
+	<target name="compile" depends="clean">
+		<javac srcdir="src" destdir="classes" debug="on" source="1.6" target="1.6" fork="true" includeantruntime="false"
+				classpathref="third.party.libs" />
+	</target>
+
+	<!--
+		Create jar file
+	-->
+	<target name="jar" depends="compile">
+		<jar destfile="lib\jjj.jar" basedir="classes">
+			<manifest> 
+				<attribute name="Implementation-Vendor" value="JJJ"/> 
+				<attribute name="Implementation-Title" value="JJJ"/> 
+				<attribute name="Implementation-Version" value="1.0"/> 
+			</manifest> 
+		</jar>
+	</target>
+	
+	<!--
+		Default target - compiles and packages in a jar
+	-->
+    <target name="main" depends="jar" />
+
+</project>

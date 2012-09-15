@@ -1,0 +1,361 @@
+Detected Java version: 1.6 in: c:\Program Files\Java\jdk1.7.0_04\jre
+Detected OS: Windows 7
+parsing buildfile C:\asap\sas\open_source\release\build.xml with URI = file:/C:/asap/sas/open_source/release/build.xml
+Project base dir set to: C:\asap\sas\open_source\release
+parsing buildfile jar:file:/C:/apache-ant-1.8.1/lib/ant.jar!/org/apache/tools/ant/antlib.xml with URI = jar:file:/C:/apache-ant-1.8.1/lib/ant.jar!/org/apache/tools/ant/antlib.xml from a zip file
+[echoproperties] #Ant properties
+[echoproperties] #Tue Sep 11 18:55:47 EDT 2012
+[echoproperties] ant.core.lib=C\:\\apache-ant-1.8.1\\lib\\ant.jar
+[echoproperties] ant.file=C\:\\asap\\sas\\open_source\\release\\build.xml
+[echoproperties] ant.file.jjj=C\:\\asap\\sas\\open_source\\release\\build.xml
+[echoproperties] ant.file.type=file
+[echoproperties] ant.file.type.jjj=file
+[echoproperties] ant.home=c\:\\apache-ant-1.8.1
+[echoproperties] ant.java.version=1.6
+[echoproperties] ant.library.dir=C\:\\apache-ant-1.8.1\\lib
+[echoproperties] ant.project.default-target=main
+[echoproperties] ant.project.name=jjj
+[echoproperties] ant.version=Apache Ant version 1.8.1 compiled on April 30 2010
+[echoproperties] awt.toolkit=sun.awt.windows.WToolkit
+[echoproperties] basedir=C\:\\asap\\sas\\open_source\\release
+[echoproperties] file.encoding=Cp1252
+[echoproperties] file.encoding.pkg=sun.io
+[echoproperties] file.separator=\\
+[echoproperties] java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+[echoproperties] java.awt.printerjob=sun.awt.windows.WPrinterJob
+[echoproperties] java.class.path=c\:\\apache-ant-1.8.1\\lib\\ant-launcher.jar;C\:\\apache-ant-1.8.1\\lib\\ant-antlr.jar;C\:\\apache-ant-1.8.1\\lib\\ant-apache-bcel.jar;C\:\\apache-ant-1.8.1\\lib\\ant-apache-bsf.jar;C\:\\apache-ant-1.8.1\\lib\\ant-apache-log4j.jar;C\:\\apache-ant-1.8.1\\lib\\ant-apache-oro.jar;C\:\\apache-ant-1.8.1\\lib\\ant-apache-regexp.jar;C\:\\apache-ant-1.8.1\\lib\\ant-apache-resolver.jar;C\:\\apache-ant-1.8.1\\lib\\ant-apache-xalan2.jar;C\:\\apache-ant-1.8.1\\lib\\ant-commons-logging.jar;C\:\\apache-ant-1.8.1\\lib\\ant-commons-net.jar;C\:\\apache-ant-1.8.1\\lib\\ant-jai.jar;C\:\\apache-ant-1.8.1\\lib\\ant-javamail.jar;C\:\\apache-ant-1.8.1\\lib\\ant-jdepend.jar;C\:\\apache-ant-1.8.1\\lib\\ant-jmf.jar;C\:\\apache-ant-1.8.1\\lib\\ant-jsch.jar;C\:\\apache-ant-1.8.1\\lib\\ant-junit.jar;C\:\\apache-ant-1.8.1\\lib\\ant-launcher.jar;C\:\\apache-ant-1.8.1\\lib\\ant-netrexx.jar;C\:\\apache-ant-1.8.1\\lib\\ant-nodeps.jar;C\:\\apache-ant-1.8.1\\lib\\ant-swing.jar;C\:\\apache-ant-1.8.1\\lib\\ant-testutil.jar;C\:\\apache-ant-1.8.1\\lib\\ant.jar;c\:\\Program Files\\Java\\jdk1.7.0_04\\lib\\tools.jar
+[echoproperties] java.class.version=51.0
+[echoproperties] java.endorsed.dirs=c\:\\Program Files\\Java\\jdk1.7.0_04\\jre\\lib\\endorsed
+[echoproperties] java.ext.dirs=c\:\\Program Files\\Java\\jdk1.7.0_04\\jre\\lib\\ext;C\:\\Windows\\Sun\\Java\\lib\\ext
+[echoproperties] java.home=c\:\\Program Files\\Java\\jdk1.7.0_04\\jre
+[echoproperties] java.io.tmpdir=C\:\\Users\\Jim\\AppData\\Local\\Temp\\
+[echoproperties] java.library.path=c\:\\Program Files\\Java\\jdk1.7.0_04\\bin;C\:\\Windows\\Sun\\Java\\bin;C\:\\Windows\\system32;C\:\\Windows;c\:\\Program Files\\Java\\jdk1.7.0_04\\bin;c\:\\apache-ant-1.8.1\\bin;C\:\\Program Files\\Microsoft HPC Pack 2008 R2\\Bin\\;C\:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C\:\\Program Files\\Common Files\\Microsoft Shared\\Windows Live;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;c\:\\bin;C\:\\strawberry\\c\\bin;C\:\\strawberry\\perl\\site\\bin;C\:\\strawberry\\perl\\bin;c\:\\android-sdk\\tools;C\:\\android-sdk\\platforms\\android-4\\tools;c\:\\java\\jdk1.6.0_21\\bin;c\:\\apache-ant-1.8.1\\bin;c\:\\users\\jim\\bin;c\:\\python27;c\:\\TE.2.2.win\\bin;c\:\\aspell\\bin;c\:\\Program Files\\Java\\jdk1.7.0_04\\bin;.
+[echoproperties] java.runtime.name=Java(TM) SE Runtime Environment
+[echoproperties] java.runtime.version=1.7.0_04-ea-b06
+[echoproperties] java.specification.name=Java Platform API Specification
+[echoproperties] java.specification.vendor=Oracle Corporation
+[echoproperties] java.specification.version=1.7
+[echoproperties] java.vendor=Oracle Corporation
+[echoproperties] java.vendor.url=http\://java.oracle.com/
+[echoproperties] java.vendor.url.bug=http\://bugreport.sun.com/bugreport/
+[echoproperties] java.version=1.7.0_04-ea
+[echoproperties] java.vm.info=mixed mode
+[echoproperties] java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+[echoproperties] java.vm.specification.name=Java Virtual Machine Specification
+[echoproperties] java.vm.specification.vendor=Oracle Corporation
+[echoproperties] java.vm.specification.version=1.7
+[echoproperties] java.vm.vendor=Oracle Corporation
+[echoproperties] java.vm.version=23.0-b09
+[echoproperties] line.separator=\r\n
+[echoproperties] os.arch=amd64
+[echoproperties] os.name=Windows 7
+[echoproperties] os.version=6.1
+[echoproperties] path.separator=;
+[echoproperties] sun.arch.data.model=64
+[echoproperties] sun.boot.class.path=c\:\\Program Files\\Java\\jdk1.7.0_04\\jre\\lib\\resources.jar;c\:\\Program Files\\Java\\jdk1.7.0_04\\jre\\lib\\rt.jar;c\:\\Program Files\\Java\\jdk1.7.0_04\\jre\\lib\\sunrsasign.jar;c\:\\Program Files\\Java\\jdk1.7.0_04\\jre\\lib\\jsse.jar;c\:\\Program Files\\Java\\jdk1.7.0_04\\jre\\lib\\jce.jar;c\:\\Program Files\\Java\\jdk1.7.0_04\\jre\\lib\\charsets.jar;c\:\\Program Files\\Java\\jdk1.7.0_04\\jre\\classes
+[echoproperties] sun.boot.library.path=c\:\\Program Files\\Java\\jdk1.7.0_04\\jre\\bin
+[echoproperties] sun.cpu.endian=little
+[echoproperties] sun.cpu.isalist=amd64
+[echoproperties] sun.desktop=windows
+[echoproperties] sun.io.unicode.encoding=UnicodeLittle
+[echoproperties] sun.java.command=org.apache.tools.ant.launch.Launcher -v -l .\\logs\\ant.log -buildfile .\\build.xml
+[echoproperties] sun.java.launcher=SUN_STANDARD
+[echoproperties] sun.jnu.encoding=Cp1252
+[echoproperties] sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+[echoproperties] sun.os.patch.level=Service Pack 1
+[echoproperties] user.country=US
+[echoproperties] user.dir=C\:\\asap\\sas\\open_source\\release
+[echoproperties] user.home=C\:\\Users\\Jim
+[echoproperties] user.language=en
+[echoproperties] user.name=Jim
+[echoproperties] user.script=
+[echoproperties] user.timezone=
+[echoproperties] user.variant=
+ [property] Loading Environment ENV.
+[echoproperties] #Ant properties
+[echoproperties] #Tue Sep 11 18:55:47 EDT 2012
+[echoproperties] ENV.ALLUSERSPROFILE=C\:\\ProgramData
+[echoproperties] ENV.ANT_CMD_LINE_ARGS=\ -v -l .\\logs\\ant.log -buildfile .\\build.xml
+[echoproperties] ENV.ANT_HOME=c\:\\apache-ant-1.8.1
+[echoproperties] ENV.APPDATA=C\:\\Users\\Jim\\AppData\\Roaming
+[echoproperties] ENV.CCP_HOME=C\:\\Program Files\\Microsoft HPC Pack 2008 R2\\
+[echoproperties] ENV.CCP_JOBTEMPLATE=Default
+[echoproperties] ENV.COMPUTERNAME=JIM-DESKTOP
+[echoproperties] ENV.ComSpec=C\:\\Windows\\system32\\cmd.exe
+[echoproperties] ENV.CommonProgramFiles=C\:\\Program Files\\Common Files
+[echoproperties] ENV.CommonProgramFiles(x86)=C\:\\Program Files (x86)\\Common Files
+[echoproperties] ENV.CommonProgramW6432=C\:\\Program Files\\Common Files
+[echoproperties] ENV.FP_NO_HOST_CHECK=NO
+[echoproperties] ENV.HOMEDRIVE=C\:
+[echoproperties] ENV.HOMEPATH=\\Users\\Jim
+[echoproperties] ENV.JAVA_HOME=c\:\\Program Files\\Java\\jdk1.7.0_04
+[echoproperties] ENV.LOCALAPPDATA=C\:\\Users\\Jim\\AppData\\Local
+[echoproperties] ENV.LOGONSERVER=\\\\JIM-DESKTOP
+[echoproperties] ENV.MSMPI_INC=C\:\\Program Files\\Microsoft HPC Pack 2008 R2\\Inc\\
+[echoproperties] ENV.MSMPI_LIB32=C\:\\Program Files\\Microsoft HPC Pack 2008 R2\\Lib\\i386\\
+[echoproperties] ENV.MSMPI_LIB64=C\:\\Program Files\\Microsoft HPC Pack 2008 R2\\Lib\\amd64\\
+[echoproperties] ENV.MpConfig_ProductAppDataPath=C\:\\ProgramData\\Microsoft\\Windows Defender
+[echoproperties] ENV.MpConfig_ProductCodeName=AntiSpyware
+[echoproperties] ENV.MpConfig_ProductPath=C\:\\Program Files\\Windows Defender
+[echoproperties] ENV.MpConfig_ProductUserAppDataPath=C\:\\Users\\Jim\\AppData\\Local\\Microsoft\\Windows Defender
+[echoproperties] ENV.MpConfig_ReportingGUID=8B21952D-276B-4B9E-9C89-B7727312330D
+[echoproperties] ENV.NUMBER_OF_PROCESSORS=8
+[echoproperties] ENV.OS=Windows_NT
+[echoproperties] ENV.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+[echoproperties] ENV.PERL_JSON_BACKEND=JSON\:\:XS
+[echoproperties] ENV.PERL_YAML_BACKEND=YAML
+[echoproperties] ENV.PROCESSOR_ARCHITECTURE=AMD64
+[echoproperties] ENV.PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 30 Stepping 5, GenuineIntel
+[echoproperties] ENV.PROCESSOR_LEVEL=6
+[echoproperties] ENV.PROCESSOR_REVISION=1e05
+[echoproperties] ENV.PROMPT=$P$G
+[echoproperties] ENV.PSModulePath=C\:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\
+[echoproperties] ENV.PUBLIC=C\:\\Users\\Public
+[echoproperties] ENV.Path=c\:\\Program Files\\Java\\jdk1.7.0_04\\bin;c\:\\apache-ant-1.8.1\\bin;C\:\\Program Files\\Microsoft HPC Pack 2008 R2\\Bin\\;C\:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C\:\\Program Files\\Common Files\\Microsoft Shared\\Windows Live;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;c\:\\bin;C\:\\strawberry\\c\\bin;C\:\\strawberry\\perl\\site\\bin;C\:\\strawberry\\perl\\bin;c\:\\android-sdk\\tools;C\:\\android-sdk\\platforms\\android-4\\tools;c\:\\java\\jdk1.6.0_21\\bin;c\:\\apache-ant-1.8.1\\bin;c\:\\users\\jim\\bin;c\:\\python27;c\:\\TE.2.2.win\\bin;c\:\\aspell\\bin;c\:\\Program Files\\Java\\jdk1.7.0_04\\bin
+[echoproperties] ENV.ProgramData=C\:\\ProgramData
+[echoproperties] ENV.ProgramFiles=C\:\\Program Files
+[echoproperties] ENV.ProgramFiles(x86)=C\:\\Program Files (x86)
+[echoproperties] ENV.ProgramW6432=C\:\\Program Files
+[echoproperties] ENV.SESSIONNAME=Console
+[echoproperties] ENV.SystemDrive=C\:
+[echoproperties] ENV.SystemRoot=C\:\\Windows
+[echoproperties] ENV.TEMP=C\:\\Users\\Jim\\AppData\\Local\\Temp
+[echoproperties] ENV.TERM=dumb
+[echoproperties] ENV.TMP=C\:\\Users\\Jim\\AppData\\Local\\Temp
+[echoproperties] ENV.USERDOMAIN=JIM-DESKTOP
+[echoproperties] ENV.USERNAME=Jim
+[echoproperties] ENV.USERPROFILE=C\:\\Users\\Jim
+[echoproperties] ENV._JAVACMD=c\:\\Program Files\\Java\\jdk1.7.0_04\\bin\\java.exe
+[echoproperties] ENV._USE_CLASSPATH=no
+[echoproperties] ENV.windir=C\:\\Windows
+Build sequence for target(s) `main' is [clean, compile, jar, main]
+Complete build sequence is [clean, compile, jar, main, ]
+
+clean:
+    [mkdir] Created dir: C:\asap\sas\open_source\release\classes
+    [mkdir] Created dir: C:\asap\sas\open_source\release\lib
+
+compile:
+    [javac] jjj\asap\sas\datasets\job\Alphabetic.java added as jjj\asap\sas\datasets\job\Alphabetic.class doesn't exist.
+    [javac] jjj\asap\sas\datasets\job\ForCosine.java added as jjj\asap\sas\datasets\job\ForCosine.class doesn't exist.
+    [javac] jjj\asap\sas\datasets\job\ForPLS.java added as jjj\asap\sas\datasets\job\ForPLS.class doesn't exist.
+    [javac] jjj\asap\sas\datasets\job\ForRegression.java added as jjj\asap\sas\datasets\job\ForRegression.class doesn't exist.
+    [javac] jjj\asap\sas\datasets\job\Import.java added as jjj\asap\sas\datasets\job\Import.class doesn't exist.
+    [javac] jjj\asap\sas\datasets\job\NGrams.java added as jjj\asap\sas\datasets\job\NGrams.class doesn't exist.
+    [javac] jjj\asap\sas\datasets\job\RGrams.java added as jjj\asap\sas\datasets\job\RGrams.class doesn't exist.
+    [javac] jjj\asap\sas\ensemble\Ensemble.java added as jjj\asap\sas\ensemble\Ensemble.class doesn't exist.
+    [javac] jjj\asap\sas\ensemble\EnsembleBuilder.java added as jjj\asap\sas\ensemble\EnsembleBuilder.class doesn't exist.
+    [javac] jjj\asap\sas\ensemble\LoaderL1.java added as jjj\asap\sas\ensemble\LoaderL1.class doesn't exist.
+    [javac] jjj\asap\sas\ensemble\LoaderL2.java added as jjj\asap\sas\ensemble\LoaderL2.class doesn't exist.
+    [javac] jjj\asap\sas\ensemble\Scheme.java added as jjj\asap\sas\ensemble\Scheme.class doesn't exist.
+    [javac] jjj\asap\sas\ensemble\StrongLearner.java added as jjj\asap\sas\ensemble\StrongLearner.class doesn't exist.
+    [javac] jjj\asap\sas\ensemble\WeakLearner.java added as jjj\asap\sas\ensemble\WeakLearner.class doesn't exist.
+    [javac] jjj\asap\sas\ensemble\impl\CrossValidatedEnsemble.java added as jjj\asap\sas\ensemble\impl\CrossValidatedEnsemble.class doesn't exist.
+    [javac] jjj\asap\sas\ensemble\impl\StackedClassifier.java added as jjj\asap\sas\ensemble\impl\StackedClassifier.class doesn't exist.
+    [javac] jjj\asap\sas\ensemble\scheme\GACommittee.java added as jjj\asap\sas\ensemble\scheme\GACommittee.class doesn't exist.
+    [javac] jjj\asap\sas\ga\GAProgram.java added as jjj\asap\sas\ga\GAProgram.class doesn't exist.
+    [javac] jjj\asap\sas\misc\job\PublishModel.java added as jjj\asap\sas\misc\job\PublishModel.class doesn't exist.
+    [javac] jjj\asap\sas\models1\job\BuildBasicMetaCostModels.java added as jjj\asap\sas\models1\job\BuildBasicMetaCostModels.class doesn't exist.
+    [javac] jjj\asap\sas\models1\job\BuildBasicModels.java added as jjj\asap\sas\models1\job\BuildBasicModels.class doesn't exist.
+    [javac] jjj\asap\sas\models1\job\BuildBasicModels2.java added as jjj\asap\sas\models1\job\BuildBasicModels2.class doesn't exist.
+    [javac] jjj\asap\sas\models1\job\BuildCosineModels.java added as jjj\asap\sas\models1\job\BuildCosineModels.class doesn't exist.
+    [javac] jjj\asap\sas\models1\job\BuildPLSModels.java added as jjj\asap\sas\models1\job\BuildPLSModels.class doesn't exist.
+    [javac] jjj\asap\sas\models1\job\BuildRBFKernelModels.java added as jjj\asap\sas\models1\job\BuildRBFKernelModels.class doesn't exist.
+    [javac] jjj\asap\sas\models1\job\BuildRegressionModels.java added as jjj\asap\sas\models1\job\BuildRegressionModels.class doesn't exist.
+    [javac] jjj\asap\sas\models1\job\RGramModels.java added as jjj\asap\sas\models1\job\RGramModels.class doesn't exist.
+    [javac] jjj\asap\sas\models2\job\BuildUnicornEnsemble.java added as jjj\asap\sas\models2\job\BuildUnicornEnsemble.class doesn't exist.
+    [javac] jjj\asap\sas\models3\job\Assemble.java added as jjj\asap\sas\models3\job\Assemble.class doesn't exist.
+    [javac] jjj\asap\sas\parser\job\ImportParserData.java added as jjj\asap\sas\parser\job\ImportParserData.class doesn't exist.
+    [javac] jjj\asap\sas\text\job\Jargon.java added as jjj\asap\sas\text\job\Jargon.class doesn't exist.
+    [javac] jjj\asap\sas\text\job\Unmarshall.java added as jjj\asap\sas\text\job\Unmarshall.class doesn't exist.
+    [javac] jjj\asap\sas\util\Bucket.java added as jjj\asap\sas\util\Bucket.class doesn't exist.
+    [javac] jjj\asap\sas\util\Calc.java added as jjj\asap\sas\util\Calc.class doesn't exist.
+    [javac] jjj\asap\sas\util\Contest.java added as jjj\asap\sas\util\Contest.class doesn't exist.
+    [javac] jjj\asap\sas\util\FileIterator.java added as jjj\asap\sas\util\FileIterator.class doesn't exist.
+    [javac] jjj\asap\sas\util\ForEach.java added as jjj\asap\sas\util\ForEach.class doesn't exist.
+    [javac] jjj\asap\sas\util\IOUtils.java added as jjj\asap\sas\util\IOUtils.class doesn't exist.
+    [javac] jjj\asap\sas\util\Job.java added as jjj\asap\sas\util\Job.class doesn't exist.
+    [javac] jjj\asap\sas\util\Mask.java added as jjj\asap\sas\util\Mask.class doesn't exist.
+    [javac] jjj\asap\sas\util\Progress.java added as jjj\asap\sas\util\Progress.class doesn't exist.
+    [javac] jjj\asap\sas\util\StringUtils.java added as jjj\asap\sas\util\StringUtils.class doesn't exist.
+    [javac] jjj\asap\sas\util\Timer.java added as jjj\asap\sas\util\Timer.class doesn't exist.
+    [javac] jjj\asap\sas\weka\CosineDistance.java added as jjj\asap\sas\weka\CosineDistance.class doesn't exist.
+    [javac] jjj\asap\sas\weka\Dataset.java added as jjj\asap\sas\weka\Dataset.class doesn't exist.
+    [javac] jjj\asap\sas\weka\DatasetBuilder.java added as jjj\asap\sas\weka\DatasetBuilder.class doesn't exist.
+    [javac] jjj\asap\sas\weka\Model.java added as jjj\asap\sas\weka\Model.class doesn't exist.
+    [javac] jjj\asap\sas\weka\ModelBuilder.java added as jjj\asap\sas\weka\ModelBuilder.class doesn't exist.
+    [javac] jjj\asap\sas\weka\QGramTokenizer.java added as jjj\asap\sas\weka\QGramTokenizer.class doesn't exist.
+    [javac] jjj\asap\sas\weka\RegressionModelBuilder.java added as jjj\asap\sas\weka\RegressionModelBuilder.class doesn't exist.
+    [javac] jjj\asap\sas\weka\Weka.java added as jjj\asap\sas\weka\Weka.class doesn't exist.
+    [javac] Compiling 51 source files to C:\asap\sas\open_source\release\classes
+    [javac] Using external javac compiler
+    [javac] Compilation arguments:
+    [javac] '-d'
+    [javac] 'C:\asap\sas\open_source\release\classes'
+    [javac] '-classpath'
+    [javac] 'C:\asap\sas\open_source\release\classes;C:\asap\sas\open_source\release\weka\weka.jar;C:\asap\sas\open_source\release\weka\naiveBayesTree\naiveBayesTree.jar;C:\asap\sas\open_source\release\weka\RBFNetwork\RBFNetwork.jar;C:\asap\sas\open_source\release\weka\partialLeastSquares\partialLeastSquares.jar;C:\lib\jgap-3.6.1\jgap.jar'
+    [javac] '-sourcepath'
+    [javac] 'C:\asap\sas\open_source\release\src'
+    [javac] '-target'
+    [javac] '1.6'
+    [javac] '-g'
+    [javac] '-source'
+    [javac] '1.6'
+    [javac] 
+    [javac] The ' characters around the executable and arguments are
+    [javac] not part of the command.
+    [javac] Files to be compiled:
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\datasets\job\Alphabetic.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\datasets\job\ForCosine.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\datasets\job\ForPLS.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\datasets\job\ForRegression.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\datasets\job\Import.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\datasets\job\NGrams.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\datasets\job\RGrams.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\ensemble\Ensemble.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\ensemble\EnsembleBuilder.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\ensemble\LoaderL1.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\ensemble\LoaderL2.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\ensemble\Scheme.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\ensemble\StrongLearner.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\ensemble\WeakLearner.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\ensemble\impl\CrossValidatedEnsemble.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\ensemble\impl\StackedClassifier.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\ensemble\scheme\GACommittee.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\ga\GAProgram.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\misc\job\PublishModel.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\models1\job\BuildBasicMetaCostModels.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\models1\job\BuildBasicModels.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\models1\job\BuildBasicModels2.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\models1\job\BuildCosineModels.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\models1\job\BuildPLSModels.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\models1\job\BuildRBFKernelModels.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\models1\job\BuildRegressionModels.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\models1\job\RGramModels.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\models2\job\BuildUnicornEnsemble.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\models3\job\Assemble.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\parser\job\ImportParserData.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\text\job\Jargon.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\text\job\Unmarshall.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\util\Bucket.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\util\Calc.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\util\Contest.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\util\FileIterator.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\util\ForEach.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\util\IOUtils.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\util\Job.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\util\Mask.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\util\Progress.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\util\StringUtils.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\util\Timer.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\weka\CosineDistance.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\weka\Dataset.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\weka\DatasetBuilder.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\weka\Model.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\weka\ModelBuilder.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\weka\QGramTokenizer.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\weka\RegressionModelBuilder.java
+    [javac]     C:\asap\sas\open_source\release\src\jjj\asap\sas\weka\Weka.java
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
+    [javac] Note: Some input files use or override a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+    [javac] 1 warning
+
+jar:
+      [jar] Building jar: C:\asap\sas\open_source\release\lib\jjj.jar
+      [jar] adding directory META-INF/
+      [jar] adding entry META-INF/MANIFEST.MF
+      [jar] adding directory jjj/
+      [jar] adding directory jjj/asap/
+      [jar] adding directory jjj/asap/sas/
+      [jar] adding directory jjj/asap/sas/datasets/
+      [jar] adding directory jjj/asap/sas/datasets/job/
+      [jar] adding directory jjj/asap/sas/ensemble/
+      [jar] adding directory jjj/asap/sas/ensemble/impl/
+      [jar] adding directory jjj/asap/sas/ensemble/scheme/
+      [jar] adding directory jjj/asap/sas/ga/
+      [jar] adding directory jjj/asap/sas/misc/
+      [jar] adding directory jjj/asap/sas/misc/job/
+      [jar] adding directory jjj/asap/sas/models1/
+      [jar] adding directory jjj/asap/sas/models1/job/
+      [jar] adding directory jjj/asap/sas/models2/
+      [jar] adding directory jjj/asap/sas/models2/job/
+      [jar] adding directory jjj/asap/sas/models3/
+      [jar] adding directory jjj/asap/sas/models3/job/
+      [jar] adding directory jjj/asap/sas/parser/
+      [jar] adding directory jjj/asap/sas/parser/job/
+      [jar] adding directory jjj/asap/sas/text/
+      [jar] adding directory jjj/asap/sas/text/job/
+      [jar] adding directory jjj/asap/sas/util/
+      [jar] adding directory jjj/asap/sas/weka/
+      [jar] adding entry jjj/asap/sas/datasets/job/Alphabetic$AlphabeticDatasetBuilder.class
+      [jar] adding entry jjj/asap/sas/datasets/job/Alphabetic.class
+      [jar] adding entry jjj/asap/sas/datasets/job/ForCosine$CosineDatasetBuilder.class
+      [jar] adding entry jjj/asap/sas/datasets/job/ForCosine.class
+      [jar] adding entry jjj/asap/sas/datasets/job/ForPLS$PLSDatasetBuilder.class
+      [jar] adding entry jjj/asap/sas/datasets/job/ForPLS.class
+      [jar] adding entry jjj/asap/sas/datasets/job/ForRegression$RegDatasetBuilder.class
+      [jar] adding entry jjj/asap/sas/datasets/job/ForRegression.class
+      [jar] adding entry jjj/asap/sas/datasets/job/Import.class
+      [jar] adding entry jjj/asap/sas/datasets/job/NGrams$NgramsDatasetBuilder.class
+      [jar] adding entry jjj/asap/sas/datasets/job/NGrams.class
+      [jar] adding entry jjj/asap/sas/datasets/job/RGrams$RGramDatasetBuilder.class
+      [jar] adding entry jjj/asap/sas/datasets/job/RGrams.class
+      [jar] adding entry jjj/asap/sas/ensemble/Ensemble.class
+      [jar] adding entry jjj/asap/sas/ensemble/EnsembleBuilder$1.class
+      [jar] adding entry jjj/asap/sas/ensemble/EnsembleBuilder.class
+      [jar] adding entry jjj/asap/sas/ensemble/LoaderL1.class
+      [jar] adding entry jjj/asap/sas/ensemble/LoaderL2.class
+      [jar] adding entry jjj/asap/sas/ensemble/Scheme.class
+      [jar] adding entry jjj/asap/sas/ensemble/StrongLearner.class
+      [jar] adding entry jjj/asap/sas/ensemble/WeakLearner$Loader.class
+      [jar] adding entry jjj/asap/sas/ensemble/WeakLearner.class
+      [jar] adding entry jjj/asap/sas/ensemble/impl/CrossValidatedEnsemble.class
+      [jar] adding entry jjj/asap/sas/ensemble/impl/StackedClassifier.class
+      [jar] adding entry jjj/asap/sas/ensemble/scheme/GACommittee$1.class
+      [jar] adding entry jjj/asap/sas/ensemble/scheme/GACommittee$Context.class
+      [jar] adding entry jjj/asap/sas/ensemble/scheme/GACommittee$GAModelSelection.class
+      [jar] adding entry jjj/asap/sas/ensemble/scheme/GACommittee$KappaFunction.class
+      [jar] adding entry jjj/asap/sas/ensemble/scheme/GACommittee.class
+      [jar] adding entry jjj/asap/sas/ga/GAProgram.class
+      [jar] adding entry jjj/asap/sas/misc/job/PublishModel.class
+      [jar] adding entry jjj/asap/sas/models1/job/BuildBasicMetaCostModels.class
+      [jar] adding entry jjj/asap/sas/models1/job/BuildBasicModels.class
+      [jar] adding entry jjj/asap/sas/models1/job/BuildBasicModels2.class
+      [jar] adding entry jjj/asap/sas/models1/job/BuildCosineModels.class
+      [jar] adding entry jjj/asap/sas/models1/job/BuildPLSModels.class
+      [jar] adding entry jjj/asap/sas/models1/job/BuildRBFKernelModels.class
+      [jar] adding entry jjj/asap/sas/models1/job/BuildRegressionModels.class
+      [jar] adding entry jjj/asap/sas/models1/job/RGramModels.class
+      [jar] adding entry jjj/asap/sas/models2/job/BuildUnicornEnsemble.class
+      [jar] adding entry jjj/asap/sas/models3/job/Assemble.class
+      [jar] adding entry jjj/asap/sas/parser/job/ImportParserData.class
+      [jar] adding entry jjj/asap/sas/text/job/Jargon.class
+      [jar] adding entry jjj/asap/sas/text/job/Unmarshall.class
+      [jar] adding entry jjj/asap/sas/util/Bucket.class
+      [jar] adding entry jjj/asap/sas/util/Calc.class
+      [jar] adding entry jjj/asap/sas/util/Contest.class
+      [jar] adding entry jjj/asap/sas/util/FileIterator.class
+      [jar] adding entry jjj/asap/sas/util/ForEach.class
+      [jar] adding entry jjj/asap/sas/util/IOUtils.class
+      [jar] adding entry jjj/asap/sas/util/Job.class
+      [jar] adding entry jjj/asap/sas/util/Mask.class
+      [jar] adding entry jjj/asap/sas/util/Progress.class
+      [jar] adding entry jjj/asap/sas/util/StringUtils.class
+      [jar] adding entry jjj/asap/sas/util/Timer.class
+      [jar] adding entry jjj/asap/sas/weka/CosineDistance.class
+      [jar] adding entry jjj/asap/sas/weka/Dataset.class
+      [jar] adding entry jjj/asap/sas/weka/DatasetBuilder.class
+      [jar] adding entry jjj/asap/sas/weka/Model$Loader.class
+      [jar] adding entry jjj/asap/sas/weka/Model.class
+      [jar] adding entry jjj/asap/sas/weka/ModelBuilder.class
+      [jar] adding entry jjj/asap/sas/weka/QGramTokenizer.class
+      [jar] adding entry jjj/asap/sas/weka/RegressionModelBuilder.class
+      [jar] adding entry jjj/asap/sas/weka/Weka.class
+
+main:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds

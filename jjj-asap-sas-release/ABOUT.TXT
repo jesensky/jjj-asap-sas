@@ -1,0 +1,16 @@
+
+ABOUT.TXT
+=========
+
+This software was used to generate a winning entry in a contest. You can read more about
+the contest here: http://www.kaggle.com/c/asap-sas.
+
+This software is very specific to the contest format. It was also developed very quickly
+and is more of a work in progress than a finished product. Albeit, the winners of the
+contest were required by the rules to release their code. So here it is.
+
+LICENSE
+=======
+
+This software is distributed under the GNU public license. Please read the file COPYING.
+
